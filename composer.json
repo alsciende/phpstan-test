@@ -1,5 +1,7 @@
 {
     "name": "alsciende/phpstan-test",
+    "description": "test case for phpstan",
+    "license": "MIT",
     "type": "project",
     "autoload": {
         "psr-4": {
